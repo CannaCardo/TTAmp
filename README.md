@@ -1,11 +1,11 @@
-# Kello
-> A simple USB powered Nixie Clock
+# TTAmp
+> Differential amplifier board
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-USB powered clock made on four classic Z567M Nixie tubes. Displays time and date, can be set up both from PC app or via capacitive buttons on the case. Delays and display duration for time and date can be configured. Settings and current time are stored in EEprom and RTC.
+A single channel differential amplifier board designed to work with tensometers in bridge circuit and with thermocouples. Supply voltage ranges from 9 to 15V, otput voltage at full swing can be regulated to 5-10V. Zero offset and gain set by pots on PCB.
 
 ![](header.png)
 
@@ -23,19 +23,14 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
 
 ## Meta
 
-Krzysztof Belewicz – belewicz@gmail.com
+![](logo.png)
+Koło Naukowe Systemów Scalonych 
 
-Distributed under the Beerware license. If you decide to build your own feel free to send me a pic.
+Krzysztof Belewicz – belewicz@gmail.com
+Distributed under the Beerware license.
 
 [https://github.com/CannaCardo/github-link](https://github.com/CannaCardo/)
 
-## Contributing
-
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
