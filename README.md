@@ -23,12 +23,11 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
 
 ## Meta
 
-![](logo.png)
-Koło Naukowe Systemów Scalonych 
-
-Krzysztof Belewicz – belewicz@gmail.com
-Distributed under the Beerware license.
-
+![](logo.png)  
+Koło Naukowe Systemów Scalonych  
+Krzysztof Belewicz – belewicz@gmail.com  
+Distributed under the Beerware license.  
+  
 [https://github.com/CannaCardo/github-link](https://github.com/CannaCardo/)
 
 
