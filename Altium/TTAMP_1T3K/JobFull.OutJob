@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=JobFull.OutJob
 Description=
-TargetOutputMedium=PDF
-VariantName=[No Variations]
+TargetOutputMedium=Folder Structure
+VariantName=5.5/2.1mm DC Jack
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Virtual Printer
+TargetPrinter=HP LaserJet Professional P1102
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -36,7 +36,7 @@ OutputName1=Assembly Drawings
 OutputCategory1=Assembly
 OutputDocumentPath1=
 OutputVariantName1=
-OutputEnabled1=1
+OutputEnabled1=0
 OutputEnabled1_OutputMedium1=0
 OutputEnabled1_OutputMedium2=3
 OutputEnabled1_OutputMedium3=0
@@ -81,7 +81,7 @@ OutputVariantName2=
 OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=0
-OutputEnabled2_OutputMedium3=2
+OutputEnabled2_OutputMedium3=0
 OutputDefault2=0
 Configuration2_Name1=OutputConfigurationParameter1
 Configuration2_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=KeepLeadingAndTrailingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=3|NumberOfDecimals=3|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16908290~1,16908291~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
@@ -93,7 +93,7 @@ OutputVariantName3=
 OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
 OutputEnabled3_OutputMedium2=0
-OutputEnabled3_OutputMedium3=3
+OutputEnabled3_OutputMedium3=0
 OutputDefault3=0
 Configuration3_Name1=OutputConfigurationParameter1
 Configuration3_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=3|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=KeepLeadingAndTrailingZeroes
@@ -105,7 +105,7 @@ OutputVariantName4=
 OutputEnabled4=1
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=2
-OutputEnabled4_OutputMedium3=4
+OutputEnabled4_OutputMedium3=1
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration4_Name1=ColumnNameFormat
@@ -113,13 +113,13 @@ Configuration4_Item1=CaptionAsName
 Configuration4_Name2=Filter
 Configuration4_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration4_Name3=General
-Configuration4_Item3=OpenExported=False|AddToProject=True|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1883|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD
+Configuration4_Item3=OpenExported=False|AddToProject=True|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1883|FormHeight=824|SupplierProdQty=1|SupplierAutoQty=True|SupplierUseCachedPricing=True|SupplierCurrency=EUR|ViewType=0
 Configuration4_Name4=GroupOrder
 Configuration4_Item4=Supplier Part Number 1=True
 Configuration4_Name5=SortOrder
-Configuration4_Item5=Supplier 1=Up
+Configuration4_Item5=Supplier Subtotal 1=Up
 Configuration4_Name6=VisibleOrder
-Configuration4_Item6=Designator=111|Comment=133|Quantity=71|Supplier 1=95|Supplier Part Number 1=163|Manufacturer 1=93|Manufacturer Part Number 1=94
+Configuration4_Item6=Designator=82|Comment=99|Value=86|Tolerance=80|Quantity=54|Supplier 1=70|Supplier Part Number 1=122|Manufacturer 1=70|Manufacturer Part Number 1=70|Supplier Currency 1=56|Supplier Order Qty 1=62|Supplier Unit Price 1=58|Supplier Subtotal 1=62
 OutputType5=Electrical Rules Check
 OutputName5=Electrical Rules Check
 OutputCategory5=Validation
@@ -128,7 +128,7 @@ OutputVariantName5=
 OutputEnabled5=0
 OutputEnabled5_OutputMedium1=0
 OutputEnabled5_OutputMedium2=0
-OutputEnabled5_OutputMedium3=5
+OutputEnabled5_OutputMedium3=0
 OutputDefault5=0
 PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=1|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration5_Name1=OutputConfigurationParameter1
@@ -141,7 +141,7 @@ OutputVariantName6=
 OutputEnabled6=0
 OutputEnabled6_OutputMedium1=0
 OutputEnabled6_OutputMedium2=0
-OutputEnabled6_OutputMedium3=6
+OutputEnabled6_OutputMedium3=0
 OutputDefault6=0
 PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=1|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration6_Name1=OutputConfigurationParameter1
@@ -154,7 +154,7 @@ OutputVariantName7=
 OutputEnabled7=0
 OutputEnabled7_OutputMedium1=0
 OutputEnabled7_OutputMedium2=0
-OutputEnabled7_OutputMedium3=7
+OutputEnabled7_OutputMedium3=0
 OutputDefault7=0
 Configuration7_Name1=OutputConfigurationParameter1
 Configuration7_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=True|IncludeElectricalPadHoles=True|IncludeFreePadHoles=True|ExportFoldedBoard=False|ExportFoldedBoardRate=0|ComponentSuffixType=1|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=0|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False
@@ -163,7 +163,7 @@ OutputName8=Schematic Prints
 OutputCategory8=Documentation
 OutputDocumentPath8=[Project Physical Documents]
 OutputVariantName8=
-OutputEnabled8=1
+OutputEnabled8=0
 OutputEnabled8_OutputMedium1=0
 OutputEnabled8_OutputMedium2=1
 OutputEnabled8_OutputMedium3=0
@@ -179,7 +179,7 @@ OutputVariantName9=
 OutputEnabled9=0
 OutputEnabled9_OutputMedium1=0
 OutputEnabled9_OutputMedium2=0
-OutputEnabled9_OutputMedium3=1
+OutputEnabled9_OutputMedium3=0
 OutputDefault9=0
 Configuration9_Name1=OutputConfigurationParameter1
 Configuration9_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=False|GenerateTextFormat=True
@@ -191,24 +191,24 @@ OutputVariantName10=
 OutputEnabled10=0
 OutputEnabled10_OutputMedium1=0
 OutputEnabled10_OutputMedium2=0
-OutputEnabled10_OutputMedium3=8
+OutputEnabled10_OutputMedium3=0
 OutputDefault10=0
 OutputType11=Board Stack Report
 OutputName11=Report Board Stack
 OutputCategory11=Fabrication
 OutputDocumentPath11=
 OutputVariantName11=
-OutputEnabled11=1
+OutputEnabled11=0
 OutputEnabled11_OutputMedium1=0
 OutputEnabled11_OutputMedium2=4
-OutputEnabled11_OutputMedium3=9
+OutputEnabled11_OutputMedium3=0
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [PublishSettings]
 OutputFilePath2=E:\AltiumProjects\AltiumProjects\Dropbox\AltiumProjects\Audio\[Smart_Recall]_Digital\Project Outputs for [Smart_Recall]_Digital\[Smart_Recall]_Digital.PDF
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for TTAmp
+OutputBasePath2=Project Outputs for TTAmp_3T0K
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -233,9 +233,9 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=F:\Techocean\Dropbox\AltiumProjects\Audio\VT_Oktal\Project Outputs for VT_Oktal\
+OutputFilePath3=F:\GitHub\TTAmp\Altium\TTAMP_3T0K\Project Outputs for TTAmp_3T0K\
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for TTAmp
+OutputBasePath3=Project Outputs for TTAmp_3T0K
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -250,7 +250,7 @@ OpenOutput3=0
 [GeneratedFilesSettings]
 RelativeOutputPath2=E:\AltiumProjects\AltiumProjects\Dropbox\AltiumProjects\Audio\[Smart_Recall]_Digital\Project Outputs for [Smart_Recall]_Digital\[Smart_Recall]_Digital.PDF
 OpenOutputs2=0
-RelativeOutputPath3=F:\Techocean\Dropbox\AltiumProjects\Audio\VT_Oktal\Project Outputs for VT_Oktal\
+RelativeOutputPath3=F:\GitHub\TTAmp\Altium\TTAMP_3T0K\Project Outputs for TTAmp_3T0K\
 OpenOutputs3=0
 AddToProject3=1
 TimestampFolder3=0

@@ -1,3 +1,5 @@
 
 # ignore all Altium Previews
 *.SchDocPreview
+
+*.$$$Preview
