@@ -181,6 +181,14 @@ ParamVariation4=ParameterName=Description|VariantValue=Socket; Barrel jack DC; m
 ParamDesignator4=P?
 ParamVariationCount=4
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for TTAmp_3T0K\Design Rule Check - TTAmp_3T0K.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for TTAmp_3T0K\Net Status - TTAmp_3T0K.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
