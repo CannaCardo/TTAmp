@@ -1,14 +1,10 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 18:07:36 On 2018-04-15
-
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [5.5/2.1mm DC Jack] of Project [TTAmp_3T0K.PrjPCB]
-   Generated File[BOM.xls]
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [5.5/2.1mm DC Jack] of PCB Document [TTAmp_3T0K.PcbDoc]
+   Generated File[ExportSTEP.step]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 18:07:48 On 2018-04-15
+Finished Output Generation At 22:36:17 On 2018-04-24
